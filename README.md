@@ -39,8 +39,9 @@ attempt error recovery.
 
 Lastly, provide unit tests for your code and include in your repo a 
 `reflections.md` (or: txt, pdf) that summarizes your work, the directions you 
-went, and parts you more difficult. In this document provide an updated UML 
-class diagram for object model. 
+went, and parts you more difficult. Provide in the repo (or document itself) a pdf or png
+of your updated UML class diagram for final object model. Feel free to use the 
+software of your choice to create this (figma, Canva, visio) -- I recommend [draw.io](https://app.diagrams.net/)
 
 # Handin
 
